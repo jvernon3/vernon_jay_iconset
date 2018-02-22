@@ -1,0 +1,28 @@
+<svg id="pyramid" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 283 289">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+        stroke: #4d4d4d;
+        stroke-miterlimit: 10;
+        stroke-width: 5px;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <title>mayan_pyramid</title>
+  <circle id="sun" class="cls-1" cx="144" cy="125" r="122.5"/>
+  <g id="mayan_pyramid">
+    <path class="cls-1" d="M319,332.5h57.5a12,12,0,0,1,12,12v28a12,12,0,0,1-12,12h-254a12,12,0,0,1-12-12v-28a12,12,0,0,1,12-12h69.25" transform="translate(-108 -98)"/>
+    <path class="cls-1" d="M195.75,332.5H142.5a12,12,0,0,1-12-12v-28a12,12,0,0,1,12-12h67.67" transform="translate(-108 -98)"/>
+    <path class="cls-1" d="M297,280.5h61.5a12,12,0,0,1,12,12v28a12,12,0,0,1-12,12H314.25" transform="translate(-108 -98)"/>
+    <path class="cls-1" d="M209.5,280.5h-45a12,12,0,0,1-12-12v-28a12,12,0,0,1,12-12h177a12,12,0,0,1,12,12v28a12,12,0,0,1-12,12H298.33" transform="translate(-108 -98)"/>
+    <rect class="cls-1" x="66.5" y="78.5" width="160" height="52" rx="12" ry="12"/>
+    <polygon class="cls-1" points="114.52 130.5 71.91 286.5 224.75 286.5 174.18 130.5 114.52 130.5"/>
+  </g>
+  <path id="detail" class="cls-2" d="M162.5,165.5c11-26,55-50,91-50s69,19,82,42c-33-20-49-31-87-28s-58,18-72,27Z" transform="translate(-108 -98)"/>
+</svg>

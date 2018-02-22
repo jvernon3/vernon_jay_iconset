@@ -1,0 +1,30 @@
+@charset "UTF-8";
+
+#container
+{
+  width: 960px;
+  margin: 0 auto;
+}
+
+h2
+{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 30px;
+}
+
+svg
+{
+  margin-left: 100px;
+  width: 500px;
+  height: 500px;
+  transition: width, height 0.5s;
+}
+
+svg:hover
+{
+    width: 600px;
+    height: 600px;
+    -webkit-filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));
+    filter: drop-shadow(12px 12px 7px rgba(0,0,0,0.5));
+
+}

@@ -1,0 +1,27 @@
+<svg id="sun" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360.17 358.17">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: gray;
+      }
+
+      .cls-2 {
+        fill: #fff;
+        opacity: 0.4;
+      }
+    </style>
+  </defs>
+  <title>sun1</title>
+  <g id="sun-2" data-name="sun">
+    <circle class="cls-1" cx="179.5" cy="179.5" r="85"/>
+    <polygon class="cls-1" points="180 0 135.83 76.5 224.17 76.5 180 0"/>
+    <polygon class="cls-1" points="0 179 76.5 223.17 76.5 134.83 0 179"/>
+    <polygon class="cls-1" points="73.19 72.92 84.8 116.26 116.53 84.53 73.19 72.92"/>
+    <polygon class="cls-1" points="180 358.17 135.83 281.67 224.17 281.67 180 358.17"/>
+    <polygon class="cls-1" points="73.19 285.25 84.8 241.91 116.53 273.64 73.19 285.25"/>
+    <polygon class="cls-1" points="360.17 179 283.67 223.17 283.67 134.83 360.17 179"/>
+    <polygon class="cls-1" points="286.98 72.92 275.37 116.26 243.64 84.53 286.98 72.92"/>
+    <polygon class="cls-1" points="286.98 285.25 275.37 241.91 243.64 273.64 286.98 285.25"/>
+  </g>
+  <path id="detail" class="cls-2" d="M191,234.5H180A59.57,59.57,0,0,1,239.5,175v11A48.55,48.55,0,0,0,191,234.5Z" transform="translate(-64 -55)"/>
+</svg>
